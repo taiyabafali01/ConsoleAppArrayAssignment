@@ -1,0 +1,14 @@
+C:\Users\taiya\OneDrive\Documents\GitHub\ConsoleAppArrayAssignment\bin\Debug\net10.0\ConsoleAppArrayAssignment.exe
+C:\Users\taiya\OneDrive\Documents\GitHub\ConsoleAppArrayAssignment\bin\Debug\net10.0\ConsoleAppArrayAssignment.deps.json
+C:\Users\taiya\OneDrive\Documents\GitHub\ConsoleAppArrayAssignment\bin\Debug\net10.0\ConsoleAppArrayAssignment.runtimeconfig.json
+C:\Users\taiya\OneDrive\Documents\GitHub\ConsoleAppArrayAssignment\bin\Debug\net10.0\ConsoleAppArrayAssignment.dll
+C:\Users\taiya\OneDrive\Documents\GitHub\ConsoleAppArrayAssignment\bin\Debug\net10.0\ConsoleAppArrayAssignment.pdb
+C:\Users\taiya\OneDrive\Documents\GitHub\ConsoleAppArrayAssignment\obj\Debug\net10.0\ConsoleAppArrayAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taiya\OneDrive\Documents\GitHub\ConsoleAppArrayAssignment\obj\Debug\net10.0\ConsoleAppArrayAssignment.AssemblyInfoInputs.cache
+C:\Users\taiya\OneDrive\Documents\GitHub\ConsoleAppArrayAssignment\obj\Debug\net10.0\ConsoleAppArrayAssignment.AssemblyInfo.cs
+C:\Users\taiya\OneDrive\Documents\GitHub\ConsoleAppArrayAssignment\obj\Debug\net10.0\ConsoleAppArrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\taiya\OneDrive\Documents\GitHub\ConsoleAppArrayAssignment\obj\Debug\net10.0\ConsoleAppArrayAssignment.dll
+C:\Users\taiya\OneDrive\Documents\GitHub\ConsoleAppArrayAssignment\obj\Debug\net10.0\refint\ConsoleAppArrayAssignment.dll
+C:\Users\taiya\OneDrive\Documents\GitHub\ConsoleAppArrayAssignment\obj\Debug\net10.0\ConsoleAppArrayAssignment.pdb
+C:\Users\taiya\OneDrive\Documents\GitHub\ConsoleAppArrayAssignment\obj\Debug\net10.0\ConsoleAppArrayAssignment.genruntimeconfig.cache
+C:\Users\taiya\OneDrive\Documents\GitHub\ConsoleAppArrayAssignment\obj\Debug\net10.0\ref\ConsoleAppArrayAssignment.dll
