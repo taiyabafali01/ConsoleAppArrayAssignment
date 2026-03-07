@@ -12,3 +12,4 @@ C:\Users\taiya\OneDrive\Documents\GitHub\ConsoleAppArrayAssignment\obj\Debug\net
 C:\Users\taiya\OneDrive\Documents\GitHub\ConsoleAppArrayAssignment\obj\Debug\net10.0\ConsoleAppArrayAssignment.pdb
 C:\Users\taiya\OneDrive\Documents\GitHub\ConsoleAppArrayAssignment\obj\Debug\net10.0\ConsoleAppArrayAssignment.genruntimeconfig.cache
 C:\Users\taiya\OneDrive\Documents\GitHub\ConsoleAppArrayAssignment\obj\Debug\net10.0\ref\ConsoleAppArrayAssignment.dll
+C:\Users\taiya\OneDrive\Documents\GitHub\ConsoleAppArrayAssignment\obj\Debug\net10.0\ConsoleAppArrayAssignment.sourcelink.json
